@@ -1,4 +1,6 @@
+#ifndef REVERT_H
+#define REVERT_H
 
-/* function to revert string */
 void RevertString(char *str);
 
+#endif
